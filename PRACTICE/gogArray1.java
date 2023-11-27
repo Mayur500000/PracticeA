@@ -15,12 +15,6 @@ class gogArray1{
         for(int i = 0 ; i < n;i++){
             A[i] = sc.nextInt();
         }
-        
-
-        // int n = 5;
-        // int  s = 12;
-        // int [] A = {1,2,3,7,5};
-        
         int flag = 0 , start = 0 , sum = 0;
 
 
