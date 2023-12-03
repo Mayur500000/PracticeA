@@ -1,6 +1,8 @@
 package Loops;
 
 public class loopsQ {
+
+//Questions links - https://www.beginwithjava.com/java/loops/questions.html
     
 //--------Qustion 13
 // public static int countN(int a){
@@ -42,5 +44,40 @@ public class loopsQ {
 //     System.out.println("NA");
 // } 
 // }
+
+//--------------------------------Question 14
+// public static void main(String[] args) {
+     
+//     int a= 0;
+//     int b= 1;
+//     int c;
+//     int n = 10;
+     
+//      System.out.println(a);
+//      System.out.println(b);
+     
+//      for(int i = 3;i<=n;i++){
+//        c = a+b;
+//        System.out.println(c);
+//        a =b;
+//        b=c;
+//      }
+//  }
+
+//--------------------------------Question15
+
+    // public static void main(String[] args) {
+    //  double n = 5;
+    //  double a = 1;
+    //  double op=0;
+   
+    // for(double i = 1;i<=n;i++){
+    //      op += a/i;       
+    //      System.out.println(op);         
+    // }
+    // }
+
+
+
 
 }
