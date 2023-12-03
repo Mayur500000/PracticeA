@@ -1,4 +1,6 @@
 package Loops;
+import java.util.Random;
+import java.util.Scanner;
 
 public class loopsQ {
 
@@ -77,7 +79,51 @@ public class loopsQ {
     // }
     // }
 
+//--------------------------------Question16
+// public static void main(String[] args) {
+//     double n = 5;
+//     double a = 1;
+//     int sign = 1;
+//     double sum=0;
+  
+//    for(double i = 1;i<=n;i++){
+//         sum +=(a*sign)/i;
+//         sign *=-1;
+//    }
+//          System.out.println(sum);
+//    }
 
+
+//--------------------------------Question17
+    // public static void main(String[] args) {
+    //       Random rand = new Random();
+    //       Scanner sc = new Scanner(System.in);
+    //         int a = rand.nextInt(100);
+    //           System.out.println(a);
+           
+    //           boolean flag = true;
+    //           while(flag==true){
+              
+    //           System.out.println("Guess no below 100 \n");
+    //           int b = sc.nextInt();
+    //           if(b>a){
+    //               System.out.println("lesser \n");
+    //              flag= true;
+    //           }
+    //           else if(b<a){
+    //               System.out.println("higher \n");
+    //               flag=true;
+    //           }
+    //           else if(b==a){
+    //               System.out.println("correct \n");
+    //              flag=false;
+    //           }
+    //           else{
+    //               System.out.println("invalide \n");
+    //              flag= true;
+    //           }
+    //         }    
+    // }
 
 
 }
