@@ -5,6 +5,36 @@ import java.util.Scanner;
 public class loopsQ {
 
 //Questions links - https://www.beginwithjava.com/java/loops/questions.html
+
+//---------------------------------------------Question1
+// public static void main(String[] args) {
+//     for (int i=1;i<=10;i++){
+//         System.out.println(i);
+//     }
+// }
+
+//---------------------------------------------Question2
+// public static void main(String[] args) {
+//     int n =10;
+//     int a = n*(n+1)/2;
+//     int sum=0;
+// System.out.println(a);
+// //with loop
+// for(int i = 1; i<=10;i++){
+//     sum +=i;
+// }
+// System.out.println(sum);
+// }
+
+//---------------------------------------------Question3
+// public static void main(String[] args) {
+//     int n =5;
+//     int sum=1;
+// for(int i = 1; i<=10;i++){
+//     sum = n*i;
+//     System.out.println(sum);
+// }
+// }
     
 //--------Qustion 13
 // public static int countN(int a){
