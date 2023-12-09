@@ -26,7 +26,7 @@ public class loopsQ {
 // System.out.println(sum);
 // }
 
-//---------------------------------------------Question3
+//--------------------------------------------Question3
 // public static void main(String[] args) {
 //     int n =5;
 //     int sum=1;
