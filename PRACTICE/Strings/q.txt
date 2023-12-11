@@ -1,0 +1,19 @@
+Write a Java program to reverse a given string without using any library functions.
+
+Implement a method to check if two strings are anagrams of each other.
+
+Create a program to count the occurrences of each character in a given string.
+
+Write a Java function to remove all duplicate characters from a string.
+
+Implement a program to check if a given string is a palindrome.
+
+Create a method to concatenate two strings without using the + operator.
+
+Write a program to find the first non-repeated character in a string.
+
+Implement a function to check if a string contains only digits.
+
+Create a Java program to find the longest common prefix among an array of strings.
+
+Write a method to replace all spaces in a string with "%20".
